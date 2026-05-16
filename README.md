@@ -23,7 +23,7 @@ $ homeos package add vscode --plugin scoop --param app=vscode --depends-on scoop
 
 | Parameter | Description |
 |-----------|-------------|
-| `name` | Bucket name (e.g., `extras`, `nerd-fonts`, `versions`) |
+| `name` | Bucket name (e.g., `extras`) |
 
 ## Actions
 
